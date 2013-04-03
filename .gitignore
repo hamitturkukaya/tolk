@@ -1,3 +1,5 @@
+.idea
+.idea/**/*
 tmp/**/*
 test/dummy/db/migrate/*.tolk.rb
 test/dummy/log/*
@@ -5,3 +7,4 @@ test/dummy/tmp/*
 test/dummy/db/*.sqlite3
 .bundle
 *.gem
+
